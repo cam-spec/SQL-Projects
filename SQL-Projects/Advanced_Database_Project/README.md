@@ -18,9 +18,11 @@ I completed this SQL project as part of a 40% assignment for the Advanced Databa
 
 ## Business Requirement
 
-This database helps educational institutions manage their delivery systems by analyzing status updates, parcel delay trends, and content logistics. Key stakeholders can identify bottlenecks and optimize delivery and resource planning based on this analysis.
+This database was built to help educational institutions stay on top of their internal delivery systems. It looks at things like parcel status updates, delays, and what’s being delivered to give a clear picture of how resources move around. The idea is to make it easier for schools or colleges to spot any issues, like common delays or problem areas, and make smarter decisions when planning deliveries or managing stock. In the long run, it helps make the whole logistics process more efficient and less stressful for everyone involved.
 
 ## Technologies
+
+This project was developed using MySQL, and all the database logic and analysis were done through standard SQL queries. Everything from creating the tables to running detailed insights was handled within a structured relational database environment.
 
 - MySQL
 - Structured Query Language (SQL)
