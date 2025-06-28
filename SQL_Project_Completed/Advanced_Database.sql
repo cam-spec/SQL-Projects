@@ -1,3 +1,4 @@
+CREATE DATABASE advanceddatabase;
 use advanceddatabase;
 
 CREATE TABLE parcels (
