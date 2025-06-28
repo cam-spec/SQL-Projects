@@ -2,8 +2,7 @@
 
 ## Overview
 
-This SQL project was completed as part of a 40% coursework submission for the "Advanced Databases" module at the National College of Ireland. The focus of the project was on designing and implementing a database system tailored for the Education Logistics industry, specifically tracking parcels, their contents, destinations, and delivery statuses.
-
+I completed this SQL project as part of a 40% assignment for the Advanced Databases module at the National College of Ireland. The goal was to design and build a database system for the Education Logistics industry, focusing on tracking parcels, what’s inside them, where they’re going, and their delivery status.
 ## Project Structure
 
 - `advanced_database.sql`: Contains all `CREATE`, `INSERT`, and `SELECT` statements for the project.
